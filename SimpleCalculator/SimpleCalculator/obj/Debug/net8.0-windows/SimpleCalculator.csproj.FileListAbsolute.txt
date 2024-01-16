@@ -1,0 +1,16 @@
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.exe
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.deps.json
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.runtimeconfig.json
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.dll
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\bin\Debug\net8.0-windows\SimpleCalculator.pdb
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.Form1.resources
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.AssemblyInfo.cs
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.dll
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\refint\SimpleCalculator.dll
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.pdb
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\SimpleCalculator.genruntimeconfig.cache
+C:\Users\soura\Downloads\work stuff\katas\SimpleCalculator\SimpleCalculator\obj\Debug\net8.0-windows\ref\SimpleCalculator.dll
