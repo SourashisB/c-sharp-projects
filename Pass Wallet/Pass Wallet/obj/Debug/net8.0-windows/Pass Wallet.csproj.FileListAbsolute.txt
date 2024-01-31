@@ -1,0 +1,17 @@
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\bin\Debug\net8.0-windows\Pass Wallet.exe
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\bin\Debug\net8.0-windows\Pass Wallet.deps.json
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\bin\Debug\net8.0-windows\Pass Wallet.runtimeconfig.json
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\bin\Debug\net8.0-windows\Pass Wallet.dll
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\bin\Debug\net8.0-windows\Pass Wallet.pdb
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass_Wallet.Properties.Resources.resources
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.csproj.GenerateResource.cache
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.AssemblyInfoInputs.cache
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.AssemblyInfo.cs
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.csproj.CoreCompileInputs.cache
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.dll
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\refint\Pass Wallet.dll
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.pdb
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\Pass Wallet.genruntimeconfig.cache
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\ref\Pass Wallet.dll
+C:\Users\soura\Downloads\work stuff\katas\Pass Wallet\Pass Wallet\obj\Debug\net8.0-windows\LoginPage.resources
